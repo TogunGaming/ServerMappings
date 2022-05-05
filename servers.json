@@ -1341,5 +1341,12 @@
         "addresses": [
             "northpvp.club"
         ]
+    },
+    {
+        "id": "catnetwork",
+        "name": "CaT Network",
+        "addresses": [
+            "catnetwork.eu"
+        ]
     }
 ]
